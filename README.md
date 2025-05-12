@@ -36,8 +36,8 @@ I'm a Master's in Computer Science graduate from **Clark University**, and a pas
 ---
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=dikondaashish&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dikondaashish&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=dikondaashish&theme=swift&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dikondaashish&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dikondaashish&icon=0&color=0)](https://visitcount.itsvg.in)
