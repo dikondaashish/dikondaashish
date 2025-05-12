@@ -1,108 +1,74 @@
-# 👋 Hey there, I'm Ashish Dikonda
+<h1 align="center">Hi 👋, I'm Ashish Dikonda</h1>
+<h3 align="center">AI-Powered Product Builder | Full Stack Engineer | Cloud & Satellite Data Enthusiast</h3>
 
-## 💻 Full Stack Developer | AI Enthusiast | SaaS Builder
-
-🎓 I'm a Master's in Computer Science graduate from **Clark University** with a strong foundation in **Full Stack Development**, **AI/ML**, and **Satellite Data Analysis**. I've built intelligent apps, scalable web systems, and cloud-based AI solutions — with a passion for turning ideas into impactful products.
-
----
-
-## 🚀 What I'm Working On
-- **Viaona.com** – An AI-powered travel planner 🗺️ built to help users discover, plan, and personalize trips with smart recommendations.
-- A SaaS platform for **startup founders** offering pitch deck templates, investor databases, and financial models.
-- Research on **Secure Federated Learning** and **Privacy-Preserving AI Models** with a focus on cloud environments.
+<p align="center">
+🌍 Worcester, MA | ✉️ dikondaashish@gmail.com | ☎️ +1 (774) 525-9109
+</p>
 
 ---
 
-## 🧠 My Interests
-- AI-Powered Applications 🤖
-- SaaS Products & Startups 🚀
-- Travel & Geospatial Tech 🌍
-- Research in AI & Privacy 🔐
+### 👨‍💻 About Me
+I'm a Master's in Computer Science graduate from **Clark University**, and a passionate Full Stack Engineer who thrives on building user-centric, AI-integrated products. From building scalable SaaS applications to processing satellite imagery with TensorFlow, I love tackling real-world challenges through code and design.
+
+- 🚀 Currently building [**Viaona.com**](https://viaona.com): An AI-powered travel companion.
+- 🧠 Exploring research in **Federated Learning & Privacy in AI** under Jim Waldo.
+- 👨‍💼 Ex–Full Stack Engineer at **NoBroker** and **Sirixo Technologies**.
+- 📚 Certifications in React, AWS, Node.js, and more.
+- 🛠️ Freelanced for startups, delivered production-grade apps on Fiverr.
+- 📌 Long-term vision: Build innovative AI SaaS tools that empower people and businesses.
 
 ---
 
-## 🧰 Tech Stack
-
-**Languages:**  
-`JavaScript` `TypeScript` `Java` `Python` `PHP` `HTML5` `CSS3` `SASS`
-
-**Frontend:**  
-`React.js` `Redux` `Vue.js` `Angular` `Bootstrap` `Tailwind CSS` `Material UI`
-
-**Backend:**  
-`Node.js` `Express.js` `Java Spring Boot` `Django` `Laravel`
-
-**Databases & APIs:**  
-`MongoDB` `MySQL` `PostgreSQL` `GraphQL` `REST APIs` `Firebase`
-
-**Dev Tools & Cloud:**  
-`Git` `GitHub` `Docker` `Jira` `AWS (EC2, S3)` `Vercel` `Netlify` `Heroku`
-
-**Testing:**  
-`Jest` `Cypress` `Mocha`
-
-**Design:**  
-`Figma` `Adobe XD` `Sketch`
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashish%20dikonda)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish_dikonda_7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-dikonda)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dikondaashish)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCThP7oe8fhCMcQ5Mh6qVWDw)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dikondaashish@gmail.com)
 
 ---
 
-## 📌 Projects
+## 🛠️ Tech Stack
 
-- **Viaona – AI Travel Companion**  
-  Smart travel planner with Google Maps integration, real-time suggestions, and ML-based personalization.  
-  _Tech: React.js, Redux, TensorFlow, Firebase_
+<!-- Add this section from your provided badge collection -->
+<!-- It's too large for a single block here, so in your GitHub readme, paste the complete list you've already provided under this heading -->
 
-- **AI-Powered News Aggregator**  
-  NLP-based news feed personalized to user interest using sentiment analysis and topic modeling.  
-  _Tech: React.js, Node.js, TensorFlow, AWS_
-
-- **Satellite Data Analysis Tool**  
-  Land use and cover classification with TensorFlow & remote sensing datasets.  
-  _Tech: Python, TensorFlow, GIS tools_
-
-- **E-Commerce Customizer**  
-  Custom product configurator with drag-and-drop interface.  
-  _Tech: React.js_
-
-- **Credit Card Suggestion Platform (U.S. Market)**  
-  Tool to recommend best-fit credit cards based on usage behavior.
+<!-- BEGIN: Tech Stack Badges -->
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+<!-- END: Tech Stack Badges -->
 
 ---
 
-## 🏢 Experience
-
-- **Full Stack Engineer @ NoBroker Technologies**  
-  Worked on high-scale production apps using React, Node.js, MongoDB, GraphQL, and Java.
-
-- **Full Stack Developer Intern @ Sirixo Software**  
-  Built dynamic web and mobile apps with PHP (Laravel), jQuery, and RESTful APIs.
-
-- **Frontend Developer Intern @ IntelliCloud Apps**  
-  Crafted responsive and secure user interfaces with React and Bootstrap.
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dikondaashish&show_icons=true&theme=radical" alt="Ashish's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikondaashish&theme=radical" />
+</p>
 
 ---
 
-## 📜 Certifications
+## 📌 Featured Projects
 
-- AWS Certified Solutions Architect – Associate  
-- React.js & Redux – Udemy  
-- Responsive Web Design – freeCodeCamp  
-- Python for Data Science – IBM  
-- JavaScript Algorithms – freeCodeCamp  
-- Microsoft AI Classroom – Microsoft
-
----
-
-## 📫 Let's Connect!
-
-- 📍 Worcester, MA  
-- 📧 Email: [adikonda@clarku.edu](mailto:adikonda@clarku.edu)  
-- 🌐 Portfolio: [viaona.com](https://viaona.com)  
-- 🔗 LinkedIn: [linkedin.com/in/ashish-dikonda](https://linkedin.com/in/ashish-dikonda)  
-- 🧠 GitHub: [github.com/dikondaashish](https://github.com/dikondaashish)
+- **AI Personalized Travel Planner** – React.js, Google Maps API, TensorFlow  
+- **AI-Powered News Aggregator** – NLP, Sentiment Analysis, AWS  
+- **E-Commerce Product Configurator** – Drag & drop interface with React  
+- **Satellite Data Analyzer** – TensorFlow & remote sensing techniques  
+- **AI-Powered Habit Tracker** – Behavioral pattern analysis and recommendations
 
 ---
 
-> "Build for impact, not just for hype."
+## 🧠 Certifications
 
-Thanks for stopping by! ⭐️ If you like what I do, let's collaborate!
+- ✅ ReactJS & Redux – Udemy  
+- ✅ AWS Certified Solutions Architect – Associate  
+- ✅ Responsive Web Design – freeCodeCamp  
+- ✅ Front-End Web Development with React – Coursera  
+- ✅ Microsoft AI Classroom – Microsoft  
+
+---
+
+### ✨ Let's Connect!
+Whether you're looking to collaborate, want to learn about AI-powered apps, or just want to say hi — I'm all ears! 🚀
+
