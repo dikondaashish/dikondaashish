@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Dikonda</h1>
-<h3 align="center">AI-Powered Product Builder | Full Stack Engineer | Cloud & Satellite Data Enthusiast</h3>
-<h3 align="center">🚀 Software Engineer | 🧠 AI Enthusiast | 🌐 Full Stack Developer | 🌩️🛰️ Cloud & Satellite Data Enthusiast | 🚀 AI-Powered Product Builder</h3>
+<h3 align="center">🚀 Software Engineer | 🧠 AI Enthusiast | 🌐 Full Stack Developer | 🌩️🛰️ Cloud & Satellite Data Enthusiast | </h3>
 
 
 <p align="center">
