@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Dikonda</h1>
 <h3 align="center">AI-Powered Product Builder | Full Stack Engineer | Cloud & Satellite Data Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer | 🧠 AI Enthusiast | 🌐 Full Stack Developer | 🌩️🛰️ Cloud & Satellite Data Enthusiast | 🚀 AI-Powered Product Builder</h3>
+
 
 <p align="center">
 🌍 Boston, MA | ✉️ <a href="mailto:dikondaashish@gmail.com">dikondaashish@gmail.com</a> | 🌐 <a href="https://ashishdikonda.com" target="_blank" rel="noopener noreferrer">ashishdikonda.com</a>
@@ -9,14 +11,19 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a Master's in Computer Science graduate from **Clark University**, and a passionate Full Stack Engineer who thrives on building user-centric, AI-integrated products. From building scalable SaaS applications to processing satellite imagery with TensorFlow, I love tackling real-world challenges through code and design.
+Hey! I’m Ashish Dikonda — a small-town guy from India who discovered my passion for tech before I even knew what “coding” was. My journey began on an old Windows XP PC, experimenting with Word and Typing Master. Fast forward to today, I’ve worked at fast-paced startups, built scalable SaaS apps, and helped 50+ global clients.
 
-- 🚀 Currently building [**Viaona.com**](https://viaona.com): An AI-powered travel companion.
-- 🧠 Exploring research in **Federated Learning & Privacy in AI** under Jim Waldo.
-- 👨‍💼 Ex–Full Stack Engineer at **NoBroker** and **Sirixo Technologies**.
-- 📚 Certifications in React, AWS, Node.js, and more.
-- 🛠️ Freelanced for startups, delivered production-grade apps on Fiverr.
-- 📌 Long-term vision: Build innovative AI SaaS tools that empower people and businesses.
+- 🎓 **Master’s in Computer Science** @ Clark University (2023–2025)
+- 💼 Over 3 years of experience with startups like **NoBroker**, **Sirixo Technologies**, and **Webinflo - Co-Founder**
+- 🚀 Built and led SaaS platforms, AI tools, and web apps in India & the US
+- 🌍 Former freelancer with 45+ clients on Fiverr — 5-star rated developer
+
+I’m a passionate Full Stack Engineer and a Master’s graduate in **Computer Science** from **Clark University**. I love solving real-world problems through code and design, whether that’s building scalable SaaS applications or processing satellite imagery using TensorFlow.
+
+- 🚀 **Viaona.com**: Launched an AI-powered travel companion (check it out on Product Hunt!)
+- 🧠 Completed research in **Federated Learning & AI Privacy**
+- 📚 Certified in React, AWS, Node.js, and more
+- 📌 Long-term vision: Build innovative AI SaaS tools that empower people and businesses
 
 ---
 
