@@ -20,7 +20,7 @@ I'm a Master's in Computer Science graduate from **Clark University**, and a pas
 ---
 
 ## 🌐 Socials:
-<a href="https://facebook.com/ashish_dikonda" target="_blank" rel="noopener noreferrer">
+<a href="https://facebook.com/ashish.dikonda.3" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
 </a>
 <a href="https://instagram.com/ashish_dikonda_7" target="_blank" rel="noopener noreferrer">
