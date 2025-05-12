@@ -20,24 +20,8 @@ I'm a Master's in Computer Science graduate from **Clark University**, and a pas
 ---
 
 ## 🌐 Socials:
-<a href="https://facebook.com/ashish.dikonda.3" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-</a>
-<a href="https://instagram.com/ashish_dikonda_7" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ashish-dikonda" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-</a>
-<a href="https://x.com/dikondaashish" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
-</a>
-<a href="https://youtube.com/@UCThP7oe8fhCMcQ5Mh6qVWDw" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
-</a>
-<a href="mailto:dikondaashish@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashish.dikonda.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish_dikonda_7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashish-dikonda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dikondaashish) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCThP7oe8fhCMcQ5Mh6qVWDw) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dikondaashish@gmail.com) 
+
 
 ---
 
@@ -51,12 +35,15 @@ I'm a Master's in Computer Science graduate from **Clark University**, and a pas
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dikondaashish&show_icons=true&theme=radical" alt="Ashish's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikondaashish&theme=radical" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dikondaashish&theme=merko&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dikondaashish&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dikondaashish&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=dikondaashish&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
