@@ -2,8 +2,9 @@
 <h3 align="center">AI-Powered Product Builder | Full Stack Engineer | Cloud & Satellite Data Enthusiast</h3>
 
 <p align="center">
-🌍 Boston, MA | ✉️ dikondaashish@gmail.com | ☎️ +1 (774) 525-9109
+🌍 Boston, MA | ✉️ <a href="mailto:dikondaashish@gmail.com">dikondaashish@gmail.com</a> | 🌐 <a href="https://ashishdikonda.com" target="_blank" rel="noopener noreferrer">ashishdikonda.com</a>
 </p>
+
 
 ---
 
